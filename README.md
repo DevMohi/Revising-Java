@@ -22,5 +22,5 @@
 - DSA Topics
 
 # Notes - To be Added
-
+- Readme
 - [Variables , Data Types Notes](https://docs.google.com/document/d/1upllrlSyv1pe86hBbNPUFT1nrmWsr6QPM4joL6Br1gU/edit)
