@@ -24,3 +24,4 @@
 # Notes - To be Added
 - [Variables , Data Types Notes](https://docs.google.com/document/d/1upllrlSyv1pe86hBbNPUFT1nrmWsr6QPM4joL6Br1gU/edit)
 - [Conditional Statements Notes](https://docs.google.com/document/d/1CdBYvB8e5Uen_4r2MFurPVE1tIEZMfrkqi34a674t5k/edit)
+- [Loop](https://docs.google.com/document/d/1Jqa2J4-udSiASDrqwH0PeW5L4LT9oDSwAFjkkm0X72E/edit)
