@@ -30,6 +30,10 @@
 - [Functions](https://docs.google.com/document/d/1XB2d4kTzhvmMrvYMgy53AzM4q9iDAxQq7pZ69a2IJjs/edit)
 - [Time and Space Complexity](https://docs.google.com/document/d/1uhAM1X_eRR-o6xqLD9Yvs0wgPRSjFn9B1hHdJlJrUTI/edit)
 - [Array](https://docs.google.com/document/d/1AJgDc-EdunSKVhW1fujsaZS5JfxSgzFiDlfg35ewhIA/edit)
+- [2D Array](https://docs.google.com/document/d/1XkI6549bd-qDvcUC88WuOW0ISPfrtm-Tk06pt_I-89I/edit)
+- [String](https://docs.google.com/document/d/1Q3rPJ82ep4LYxrqjl8mEjbHCEQAQPUSuJq0bo8hAQ0w/edit)
+- [StringBuilder](https://docs.google.com/document/d/14XwQZtfkFQhig8qN9q4EHtQozU7D7nxGoI1NG9UYvu8/edit)
+- [Bit Manipulation](https://docs.google.com/document/d/13GQILgmIV5EcfcrdIciwrxXG8EVFKRy_DvLpFmsJD9c/edit)
 
 
 # Excercise - if you want to practice
