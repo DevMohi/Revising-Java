@@ -15,11 +15,9 @@
 - StringBuilder
 - Bit Manipulation
 - Recursion
-- Backtracking
 - JAVA OOPs
 - ArrayList in Java
 - Java Collection Framework
-- DSA Topics
 
 # Notes - To be Added
 - [Variables , Data Types Notes](https://docs.google.com/document/d/1upllrlSyv1pe86hBbNPUFT1nrmWsr6QPM4joL6Br1gU/edit)
@@ -34,6 +32,9 @@
 - [String](https://docs.google.com/document/d/1Q3rPJ82ep4LYxrqjl8mEjbHCEQAQPUSuJq0bo8hAQ0w/edit)
 - [StringBuilder](https://docs.google.com/document/d/14XwQZtfkFQhig8qN9q4EHtQozU7D7nxGoI1NG9UYvu8/edit)
 - [Bit Manipulation](https://docs.google.com/document/d/13GQILgmIV5EcfcrdIciwrxXG8EVFKRy_DvLpFmsJD9c/edit)
+- [OOP Notes](https://docs.google.com/document/d/1uv9EdLaG9TK7iNcMneLeEaChzvmXU9Xu_Uv5iZwswFk/edit)
+- [ArrayList](https://docs.google.com/document/d/1v2iXC49cKhF2WuJFX5C_MjmXDu4FRv89cqi2u1FFk3A/edit)
+- [Java Collection Framework](https://drive.google.com/file/d/1Vde0ztULzoBZtdCflLHGi7dMMtTM9Oi8/view)
 
 
 # Excercise - if you want to practice
