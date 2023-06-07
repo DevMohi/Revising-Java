@@ -46,11 +46,7 @@ public class hashmap {
 
 
         //2nd way
-        Set <String> keys = map.keySet();
-        for(String key: keys){
-            System.out.println("With key");
-            System.out.println(key + " " + map.get(key));
-        }
+
 
         //remove pair
 
