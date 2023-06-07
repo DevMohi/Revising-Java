@@ -35,6 +35,7 @@
 - [OOP Notes](https://docs.google.com/document/d/1uv9EdLaG9TK7iNcMneLeEaChzvmXU9Xu_Uv5iZwswFk/edit)
 - [ArrayList](https://docs.google.com/document/d/1v2iXC49cKhF2WuJFX5C_MjmXDu4FRv89cqi2u1FFk3A/edit)
 - [Java Collection Framework](https://drive.google.com/file/d/1Vde0ztULzoBZtdCflLHGi7dMMtTM9Oi8/view)
+- [HashMap](https://docs.google.com/document/d/1zadjci7AJqGgPFkn0d_FV9LIX6blVJKZCfneYM6F2mc/edit)
 
 
 # Excercise - if you want to practice
