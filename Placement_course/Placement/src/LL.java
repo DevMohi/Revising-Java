@@ -38,8 +38,6 @@ public class LL{
         // delete by index
         list.remove(3);
         System.out.println(list);
-
-
-        
+  
     }
 }
