@@ -86,8 +86,9 @@ public class assesment {
         }
         str = reversedStr;
 
-                // Replace the last occurrence of "222" with "aaa"
+        // Replace the last occurrence of "222" with "aaa"
         int lastIndex = str.lastIndexOf("222");
+        
                 if (lastIndex != -1) {
                     str = str.substring(0, lastIndex) + "aaa" + str.substring(lastIndex + 3);
                 }
