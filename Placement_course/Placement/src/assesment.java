@@ -38,7 +38,16 @@ public class assesment {
 
         //Hashmaps only keeps unique keys in their sets. 
 
-        Set <String> keys = mapC.keySet();
+        Set <String> keys = mapC.keySet();  
+        //
+        // System.out.println("This is keys");
+        // for(String key : keys){
+        //     if(mapC.containsKey("5")){
+        //         System.out.println(mapC.get(keys));
+        //     }
+        // }
+
+
         for(String key : keys){
             // System.out.println(key + " " + mapC.get(key)); 
             if(mapC.containsKey("5")){
@@ -53,6 +62,12 @@ public class assesment {
         //     System.out.println(e.getValue());
         //    }
         // }
+        
+        // mapC.forEach((key,value) ->{
+        //     if(key.contains("5")){
+        //         System.out.println(key + " is  " + value);
+        //     }
+        // });
 
 
         //Another way 
@@ -63,6 +78,9 @@ public class assesment {
         });
 
         System.out.println("Done");
+
+
+
 
 
         List<String> keysToRemove = new ArrayList<>();
@@ -76,7 +94,11 @@ public class assesment {
 
 
         // keysToRemove.forEach(key -> mapC.remove(key));
-        // System.out.println(mapC);
+
+        // keysToRemove.forEach((key) -> {
+        //     mapC.remove(key);
+        // });
+        // System.out.println(mapC); 
         
 
         String str = "111222888222555";
